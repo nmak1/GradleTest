@@ -1,0 +1,16 @@
+package db
+
+plugins {
+    id 'java'
+}
+
+group 'ru.nmak1'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
+
